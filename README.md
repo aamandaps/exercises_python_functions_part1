@@ -9,7 +9,7 @@ organizados com chamada de main para a parte principal do código e a modulariza
   
   20. Receba 3 coeficientes A, B, e C de uma equação do 2o grau da fórmula AX2+BX+C=0. Verifique
   e mostre a existência de raízes reais e se caso exista, calcule e mostre.
-  
+   
   21. Receba 4 notas bimestrais de um aluno. Calcule e mostre a média aritmética. Mostre a
   mensagem de acordo com a média:
     a. Se a média for >= 6,0 exibir “APROVADO”;
